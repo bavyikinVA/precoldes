@@ -1,1 +1,2 @@
-# precoldes
+Makson suchka
+lublu tebya
